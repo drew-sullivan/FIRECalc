@@ -8,7 +8,21 @@ iOS app for exploring **FIRE** scenarios
 - 📈 Growth calculator  
 - 💡 FIRE number using 4% or 4.7% rule
 - 🎲 Basic Monte Carlo simulator with success probabilities  
-- 🏠 Housing scenario modeling (mortgage, roommates, etc.)  
+- 🏠 Housing scenario modeling (mortgage, roommates, etc.)
+
+## 📸 Screenshots
+
+#### Growth Calculator
+![Growth Calculator](docs/growth.png)
+
+#### FIRE Number
+![FIRE Number](docs/fire.png)
+
+#### Housing Number
+![Housing](docs/housing.png)
+
+#### Monte Carlo Sim
+![Monte Carlo](docs/monte_carlo.png)
 
 ---
 
