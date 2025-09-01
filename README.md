@@ -13,14 +13,12 @@ iOS app for exploring **FIRE** scenarios
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="docs/growth.png" alt="Growth Calculator" width="220"/>
-  <img src="docs/fire.png" alt="FIRE Number" width="220"/>
+  <img src="docs/growth.png" alt="Growth Calculator" width="180"/>
+  <img src="docs/fire.png" alt="FIRE Number" width="180"/>
+  <img src="docs/housing.png" alt="Housing Scenario" width="180"/>
+  <img src="docs/monte_carlo.png" alt="Monte Carlo" width="180"/>
 </p>
 
-<p align="center">
-  <img src="docs/housing.png" alt="Housing Scenario" width="220"/>
-  <img src="docs/monte_carlo.png" alt="Monte Carlo" width="220"/>
-</p>
 
 ---
 
