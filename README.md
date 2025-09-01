@@ -15,12 +15,12 @@ iOS app for exploring **FIRE** scenarios
 ## 🛠️ Setup Guide
 
 ### 1. Install Xcode
-- Download **Xcode** from the [Mac App Store](https://apps.apple.com/us/app/xcode/id497799835?mt=12).
-- It’s big (~10GB), so give it time.
-- Open Xcode once to let it finish installing command-line tools.
+- Download **Xcode** from the App Store
+- It’s big (~10GB), so give it time
+- Open Xcode once to let it finish installing command-line tools
 
 ### 2. Clone the Repo
-- git clone https://github.com/YOUR_USERNAME/FIRECalc.git
+- $ git clone git@github.com:drew-sullivan/FIRECalc.git
 - cd FIRECalc
 
 ### 3. Open the Project in Xcode
