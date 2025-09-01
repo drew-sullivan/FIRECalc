@@ -9,6 +9,10 @@ import SwiftUI
 
 @main
 struct FIRECalcApp: App {
+    init() {
+        CyberpunkTabBarStyle.apply()
+    }
+
     var body: some Scene {
         WindowGroup {
             ContentView()
